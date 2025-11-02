@@ -42,7 +42,7 @@
 
 ### 🌐 Contacto
 
-📧 **rinconestorresjorgearmando@gmail.com**
+📧 **rinconestorresjorgearmando@gmail.com** <br>
 📞 **3135742932**
 
 ---
