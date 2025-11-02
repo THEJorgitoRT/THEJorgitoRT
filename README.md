@@ -33,7 +33,7 @@
 
 ### 📫 Cómo contactarme
 
-📧 **rinconestorresjorgearmando@example.com**  
+📧 **rinconestorresjorgearmando@gmail.com**  
 
 ---
 
