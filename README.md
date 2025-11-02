@@ -21,6 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=THEJorgitoRT&show_icons=true&theme=tokyonight&count_private=true" height="165em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEJorgitoRT&layout=compact&theme=tokyonight" height="165em"/>
 </p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=THEJorgitoRT&theme=tokyonight&no-frame=true)
 
 ---
 
@@ -37,7 +38,6 @@
 ### 🧩 En progreso
 - Mejorando mis habilidades en **simulación física** y **desarrollo de videojuegos**  
 - Aprendiendo **metodologías ágiles (AUP, DevOps, Lean Six Sigma)**
-- ![Trophies](https://github-profile-trophy.vercel.app/?username=THEJorgitoRT&theme=tokyonight&no-frame=true)
 
 ---
 
