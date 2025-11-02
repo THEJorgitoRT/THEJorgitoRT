@@ -1,39 +1,50 @@
-# 👋 ¡Hola! Soy Jorge Rincones
+<h1 align="center">👋 ¡Hola! Soy Jorge Rincones</h1>
 
-🎓 Estudiante de **Ingeniería de Software** en la **Universidad de Santander (UDES)**  
-💻 Apasionado por el desarrollo de software, la física y la creación de simuladores interactivos.  
-🚀 Actualmente trabajando en proyectos con **Python**, **Unity** y **JavaScript**.
-
----
-
-### 🧠 Tecnologías y herramientas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p align="center">
+  🎓 Estudiante de <b>Ingeniería de Software</b> en la <b>Universidad de Santander (UDES)</b> <br>
+  💻 Apasionado por el desarrollo, la simulación física y la creación de videojuegos educativos.
+</p>
 
 ---
 
-### 🌱 Actualmente aprendiendo
-- Desarrollo de videojuegos en Unity 🎮  
-- Métodos numéricos y simulaciones físicas ⚙️  
-- Arquitectura de software y metodologías ágiles 🧩
+### 🧠 Skills
+- 💡 **Lenguajes:** Python, C++, JavaScript, HTML, CSS  
+- 🧩 **Frameworks y motores:** Unity, Node.js  
+- 🗃️ **Bases de datos:** MySQL, SQLite  
+- ⚙️ **Otros:** Git, GitHub, VS Code, Linux  
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THEJorgitoRT&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THEJorgitoRT&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgerincones&show_icons=true&theme=tokyonight&count_private=true" height="165em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgerincones&layout=compact&theme=tokyonight" height="165em"/>
+</p>
 
+---
 
+### 🚀 Proyectos recientes
 
-### 📫 Cómo contactarme
+| Proyecto | Descripción | Tecnologías |
+|-----------|-------------|--------------|
+| 🎮 **Simulador de péndulo en Unity** | Proyecto educativo con física realista y ajustes dinámicos. | Unity, C# |
+| 🧮 **Planificador de tareas en Python** | App de escritorio sin librerías externas. | Python |
+| 💻 **Matriz Gauss-Jordan Web** | Página interactiva para resolver matrices paso a paso. | HTML, JS, CSS |
 
-📧 **rinconestorresjorgearmando@gmail.com**  
+---
+
+### 🧩 En progreso
+- Mejorando mis habilidades en **simulación física** y **desarrollo de videojuegos**  
+- Aprendiendo **metodologías ágiles (AUP, DevOps, Lean Six Sigma)**  
+
+---
+
+### 🌐 Contacto
+
+📧 **jorge.rincones@example.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/jorge-rincones)  
+🌍 [Portafolio](https://jorgerincones.github.io)
 
 ---
 
