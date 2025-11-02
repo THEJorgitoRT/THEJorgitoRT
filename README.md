@@ -21,7 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=THEJorgitoRT&show_icons=true&theme=tokyonight&count_private=true" height="165em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEJorgitoRT&layout=compact&theme=tokyonight" height="165em"/>
 </p>
-![Trophies](https://github-profile-trophy.vercel.app/?username=THEJorgitoRT&theme=tokyonight&no-frame=true)
 
 ---
 
@@ -46,5 +45,6 @@
 📧 **rinconestorresjorgearmando@gmail.com**    
 
 ---
+![Trophies](https://github-profile-trophy.vercel.app/?username=THEJorgitoRT&theme=tokyonight&no-frame=true)
 
 > 💬 “La programación no es solo código, es crear algo que antes no existía.”
